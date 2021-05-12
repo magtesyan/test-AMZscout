@@ -19,6 +19,12 @@ const NavStyles = styled.div`
     line-height: 26px;
     color: #000000;
   }
+
+  @media(max-width: 1024px) {
+    order: 3;
+    width: 100%;
+    margin-top: 20px;
+  }
 `;
 
 const Nav = () => {

@@ -7,9 +7,11 @@ const FooterStyles = styled.div`
   ul {
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     max-width: 695px;
     margin: 0 auto;
   }
+  
 `;
 
 const Footer = () => {

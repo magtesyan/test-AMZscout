@@ -12,6 +12,10 @@ const LogoStyles = styled.div`
     line-height: 28px;
     color: #ffffff;
   }
+
+  @media(max-width: 365px) {
+    margin-bottom: 20px;
+  }
 `;
 
 const Logo = () => {

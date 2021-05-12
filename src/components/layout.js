@@ -14,6 +14,7 @@ const GlobalStyle = createGlobalStyle`
   }
   ul {
     list-style: none;
+    padding: 0;
   }
 `
 
@@ -29,11 +30,8 @@ const SiteBorderStyles = styled.div`
   .content {
     flex-grow: 1;
   }
-  @media(max-width: 300px) {
-    margin-left: 1.5rem;
-    margin-right: 1.5rem;
-  }
 `;
+
 
 const Layout = (props) => {
   return (
