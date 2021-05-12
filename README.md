@@ -2,7 +2,7 @@
 
 > Test Assignment for AZMscout.\
 > Technologies used: HTML, CSS, Styled Components, Javascript (ES6), React, Gatsby, GraphQL, Contentful.\
-> Demo: <a href="https://magtesyan.github.io/test-tochka-tochka">Watch online</a>
+> Demo: <a href="https://cocky-heyrovsky-4d4a2c.netlify.app/post">Watch online</a>
 
 ## Installation
 
