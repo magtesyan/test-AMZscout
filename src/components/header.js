@@ -18,6 +18,7 @@ const HeaderStyles = styled.div`
 
   @media(max-width: 365px) {
     justify-content: center;
+    flex-direction: column;
   }
 `;
 
